@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Mir Personal website ',
-  tagline: 'Texh with Mir',
+  title: 'Mir Personal Website ',
+  tagline: 'Tech with Mir',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
