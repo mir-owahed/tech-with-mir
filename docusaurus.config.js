@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Mir Personal Website  and edited on Github',
+  title: 'Mir Personal Website',
   tagline: 'Tech with Mir',
   favicon: 'img/favicon.ico',
 
